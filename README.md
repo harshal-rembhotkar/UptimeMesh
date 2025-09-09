@@ -16,7 +16,7 @@
 
 ## How It Works
 
-1. Websites/services are registered on the platform.
+1. Websites are registered on the platform.
 2. Multiple distributed nodes ping the services at regular intervals.
 3. Downtime is detected collaboratively and verified across nodes.
 4. Users receive instant alerts via email, Telegram, or Discord.
